@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Component2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_blood_group">Enter Blood Group</string>
+    <string name="enter_mother_name">Enter Mother Name</string>
+    <string name="enter_father_name">Enter Father Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="student_information_list">Student Information List</string>
+</resources>
